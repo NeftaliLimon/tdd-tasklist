@@ -6,7 +6,10 @@ import static org.assertj.core.api.Assertions.assertThatThrownBy;
 import java.time.LocalDateTime;
 import java.time.Month;
 
+import edu.uaslp.objetos.taskslist.taskList.Task;
 import org.junit.jupiter.api.Test;
+import edu.uaslp.objetos.taskslist.exceptions.TaskListException;
+import edu.uaslp.objetos.taskslist.exceptions.TaskNotFoundException;
 
 public class TaskTest {
 

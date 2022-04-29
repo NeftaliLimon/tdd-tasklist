@@ -1,4 +1,4 @@
-package edu.uaslp.objetos.taskslist;
+package edu.uaslp.objetos.taskslist.taskList;
 
 public class App {
 
